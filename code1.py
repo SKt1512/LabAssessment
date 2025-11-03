@@ -1,5 +1,5 @@
 #abc= input("Enter the string : ")
-abc =" This is a test string"
+abc =" This is a test string and editting it"
 length =len(abc)
 last_char = abc[-3:]
 if length >=3 :
